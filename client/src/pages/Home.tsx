@@ -60,7 +60,7 @@ export default function Home() {
           {/* Logo */}
           <div className="flex items-center gap-3">
             <img 
-              src="/storage/vistativo-logo_d84c969d.png"
+              src="/public/images/vistativo-logo_d84c969d.png"
               alt="VistAtivo Logo"
               className="h-10 w-10"
             />
@@ -162,7 +162,7 @@ export default function Home() {
             </div>
             <div className="relative w-full scroll-animate animate-slide-in-right">
               <img 
-                src="/storage/vistativo-hero-image_bafc1b4b.png"
+                src="/public/images/vistativo-hero-image_bafc1b4b.png"
                 alt="Dashboard VistAtivo - Hero"
                 className="rounded-lg shadow-2xl border border-accent/20 w-full hover:shadow-2xl transition-shadow duration-300"
                 loading="lazy"
@@ -178,7 +178,7 @@ export default function Home() {
           <div className="grid md:grid-cols-2 gap-8 md:gap-12 items-center">
             <div className="relative w-full md:order-2">
               <img 
-                src="storage/vistativo-pain-point-hospital-equipment-VsnRB6BhUsVSXkBTP8QSvo.png"
+                src="/public/images/vistativo-pain-point-hospital-equipment-VsnRB6BhUsVSXkBTP8QSvo.png"
                 alt="Técnico em Ambiente Hospitalar/Industrial com Equipamentos Críticos"
                 className="rounded-lg shadow-2xl border border-accent/20 w-full"
                 loading="lazy"
@@ -288,7 +288,7 @@ export default function Home() {
           <div className="grid md:grid-cols-2 gap-8 md:gap-12 items-center">
             <div className="relative w-full">
               <img 
-                src="/storage/vistativo-3d-modelo-com-logo_8914f726.png"
+                src="/public/images/vistativo-3d-modelo-com-logo_8914f726.png"
                 alt="Modelo 3D - Visualizador 3D do VistAtivo"
                 className="rounded-lg shadow-2xl border border-accent/20 w-full"
                 loading="lazy"
@@ -830,7 +830,7 @@ export default function Home() {
             {/* Logo Grande */}
             <div className="flex justify-center animate-fade-in">
               <img 
-                src="/storage/vistativo-logo_d84c969d.png" 
+                src="/public/images/vistativo-logo_d84c969d.png" 
                 alt="VistAtivo Logo" 
                 className="w-32 h-32 md:w-48 md:h-48 object-contain drop-shadow-lg hover:scale-105 transition-transform duration-300"
               />
@@ -1090,7 +1090,7 @@ export default function Home() {
             <div>
               <div className="flex items-center gap-3 mb-4">
                 <img 
-                  src="/storage/vistativo-logo_d84c969d.png"
+                  src="/public/images/vistativo-logo_d84c969d.png"
                   alt="VistAtivo Logo"
                   className="h-8 w-8"
                 />
